@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://images.pexels.com/photos/34762292/pexels-photo-34762292.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+   background-size: cover;
+   text-decoration: azure;
+   text-align: center;
+}
+
+div.main{
+    height:auto ;
+    width:auto ;
+
+}
+
+#pics ul{
+
+height: 2px;
+width: 5px;
+}
+#gallery{
+    display: flex;
+    width: fit-content;
+    margin: 2px;
+}
+h1{
+    color: azure;
+    }
+    
+    p{
+        color: azure;
+    }
